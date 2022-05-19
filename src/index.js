@@ -11,7 +11,7 @@ root.render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Pages />} />
+        <Route path="/questionz" element={<Pages />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>

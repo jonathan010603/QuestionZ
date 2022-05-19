@@ -31,9 +31,9 @@ export default function IncrementSlider({ name, stateChanger }) {
     <div id={"sliderContainer"}>
       <span id={"sliderName"}>{name}</span>
       <div id={"slider"}>
-        <Arrow operation={decrement} img={"/arrowLeft.png"} />
+        <Arrow operation={decrement} img={"./arrowLeft.png"} />
         <span id={"value"}>{amount}</span>
-        <Arrow operation={increment} img={"/arrowRight.png"} />
+        <Arrow operation={increment} img={"./arrowRight.png"} />
       </div>
     </div>
   );

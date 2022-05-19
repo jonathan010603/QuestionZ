@@ -4,7 +4,7 @@ export default function Home({ nextPage }) {
   return (
     <div id={"homeContainer"}>
       <a href="https://github.com/jonathan010603/questionz" id={"codeLink"}>
-        <img src="/codeIcon.png" id={"codeLinkImage"}/>
+        <img src="./codeIcon.png" id={"codeLinkImage"}/>
       </a>
       <div id={"dialogue"}>
         <span>Welcome to Questionz!</span>
