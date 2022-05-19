@@ -33,4 +33,4 @@ Building Process:
 - On the last approach I decided to follow some React pattern and choose the Fractal Structure (personal taste)
 - I liked the code, but didn't liek the design, then I rebuilt it one more time with a new font, a new ui, new colors...
 - At the end I finally liked the design and now I'm just fixing some bugs and thinking about new features
-- * I used CodeSandBox and VS Code as IDEs
+* I used CodeSandBox and VS Code as IDEs
