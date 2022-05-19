@@ -10,24 +10,14 @@
 
 #title {
     color: white;
-    font-size: 3rem;
+    font-size: 10vh;
     align-self: center;
     position: absolute;
     transition: all 0.1s ease-out
 }
 
 #title:hover {
-    font-size: 4rem;
-}
-
-#codeLink {
-    width: 10vw;
-    cursor: pointer;
-    transition: all 0.1s ease-out
-}
-
-#codeLink:hover {
-    width: 15vw;
+    font-size: 11vh;
 }
 
 a {
