@@ -37,13 +37,6 @@ export default function Playing({
       GetQuestions({ setQuestions });
       nextPage("Playing");
     }
-    /*if (questions[currentIndex]) {
-      question = questions[currentIndex].question.replace(/&quot;/g, "");
-      return question.replace(/&#039;/g, "'");
-    } else {
-      GetQuestions({ setQuestions });
-      nextPage("Playing");
-    }*/
   };
 
   return (
