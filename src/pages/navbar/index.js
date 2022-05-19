@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav id={"nav"}>
       <span id={"title"}>
-        <a href="/">QuestionZ</a>
+        <a href="https://jonathan010603.github.io/questionz">QuestionZ</a>
       </span>
     </nav>
   );
