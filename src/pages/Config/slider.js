@@ -1,5 +1,7 @@
 import "./config.css";
 import { useState } from "react";
+import arrowLeft from "./arrowLeft.png";
+import arrowRight from "./arrowRight.png";
 
 const Arrow = ({ operation, img }) => {
   return (
@@ -31,9 +33,9 @@ export default function IncrementSlider({ name, stateChanger }) {
     <div id={"sliderContainer"}>
       <span id={"sliderName"}>{name}</span>
       <div id={"slider"}>
-        <Arrow operation={decrement} img={"./arrowLeft.png"} />
+        <Arrow operation={decrement} img={arrowLeft} />
         <span id={"value"}>{amount}</span>
-        <Arrow operation={increment} img={"./arrowRight.png"} />
+        <Arrow operation={increment} img={arrowRight} />
       </div>
     </div>
   );
