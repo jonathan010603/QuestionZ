@@ -16,7 +16,7 @@
 #dialogue {
   display: flex;
   flex-direction: column;
-  font-size: 7vh;
+  font-size: 6vh;
   text-align: center;
 }
 
