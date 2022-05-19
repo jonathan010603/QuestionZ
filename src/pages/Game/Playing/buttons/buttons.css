@@ -1,0 +1,16 @@
+@media (min-width: 700px) {
+  #buttonsContainer {
+    width: 20vw;
+  }
+}
+
+#buttonsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: white;
+  font-size: 4vw;
+  padding: 2%;
+  height: 49vh;
+}
+

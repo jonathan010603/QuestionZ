@@ -1,0 +1,48 @@
+.background {
+    width: 100%;
+    height: 100vh;
+    /*background: linear-gradient(-90deg, #EE7752, #E73C7E, #23A6D5, #00cfc3, #23D5AB);*/
+    position: relative;
+    transition: all 0.7s ease-out
+}
+
+.Home {
+  background: #fdcb6e;
+  background-size: 400% 400%;
+}
+
+.Config {
+  background: #5ebe5a;
+  background-size: 400% 400%;
+}
+
+.StandBy {
+  background: #ff7675;
+  background-size: 400% 400%;
+}
+
+.Countdown {
+  background: #ff7675;
+  background-size: 400% 400%;
+}
+.Playing {
+    background: #6c5ce7;
+    background-size: 400% 400%;
+}
+
+.End {
+  background: #0984e3;
+    background-size: 400% 400%;
+}
+
+@keyframes change {
+    0% {
+      background-position: 0 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0 50%;
+    }
+  }

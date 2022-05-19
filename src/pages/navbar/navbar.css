@@ -1,0 +1,36 @@
+#nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 15vh;
+    border-bottom: solid white 2px;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    color: white;
+    font-size: 3rem;
+    align-self: center;
+    position: absolute;
+    transition: all 0.1s ease-out
+}
+
+#title:hover {
+    font-size: 4rem;
+}
+
+#codeLink {
+    width: 10vw;
+    cursor: pointer;
+    transition: all 0.1s ease-out
+}
+
+#codeLink:hover {
+    width: 15vw;
+}
+
+a {
+    margin-right: auto;
+    color: white;
+}

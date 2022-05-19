@@ -1,0 +1,20 @@
+#btnContainer {
+  display: flex;
+  color: white;
+  text-align: center;
+  margin-bottom: 2vh;
+}
+
+#btnContainer:hover {
+  color:black;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  font-size: 1.8rem;
+  height: 8vh;
+  cursor: pointer;
+}

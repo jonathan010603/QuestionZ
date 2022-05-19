@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+body {
+  overflow: hidden;
+  margin: 0;
+  font-family: 'Koulen', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}

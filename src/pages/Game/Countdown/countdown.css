@@ -1,0 +1,12 @@
+#countdownContainer {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+#time {
+  font-size: 20rem;
+}

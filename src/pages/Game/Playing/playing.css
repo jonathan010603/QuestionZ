@@ -1,0 +1,39 @@
+@media screen and (min-width: 700px) {
+  #box {
+    font-size: 2rem;
+    width: 70vw;
+  }
+}
+
+#playingContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+#box {
+  border: solid white 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2%;
+  font-size: 1.5rem;
+  width: 40vw;
+  text-align: center;
+  margin: 2vh auto;
+  height: 25vh;
+}
+
+#playingContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+#button {
+  display: flex;
+}

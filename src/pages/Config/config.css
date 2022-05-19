@@ -1,0 +1,49 @@
+#configContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+#sliderContainer {
+  font-size: 8vh;
+}
+
+#sliderName {
+  font-size: 4rem;
+  margin-bottom: 5vh;
+}
+
+.arrows {
+  cursor: pointer;
+}
+
+.arrows:hover {
+  background-color: black;
+}
+
+#slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+#value {
+  width: 18vw;
+}
+
+#startBtn {
+  font-size: 4rem;
+  cursor: pointer;
+  transition: all 0.1s ease-out
+}
+
+#startBtn:hover {
+  color: black
+}
