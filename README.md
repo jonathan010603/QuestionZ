@@ -1,6 +1,6 @@
 Welcome to QuestionZ!!!
 
-Check this out: https://jonathan010603.github.io/questionz/
+Check this out: https://jonathan010603.github.io/QuestionZ/
 
 ![image](https://user-images.githubusercontent.com/76676185/169177138-6b80cfd7-374a-4f4b-a4f3-1dce3a8705af.png)
 ![image](https://user-images.githubusercontent.com/76676185/169176966-75100ae9-3b2b-4ea2-ac9d-fe6456a9dafd.png)
