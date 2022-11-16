@@ -23,6 +23,7 @@ Current Problems:
 - Some problems with sizes may appear
 
 Building Process:
+
 ![image](https://user-images.githubusercontent.com/76676185/169176232-1117d42e-c44a-421d-afc9-0453b57786b4.png)
 - I started this project after seeing a post on Instagram (@onebitcode) with ideas for web projects
 - I liked the idea of building a quiz and started to design it with Figma
